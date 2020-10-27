@@ -2,6 +2,8 @@
 
 ## AI for IoT and Mobile
 
+[toc]
+
 ### Compression
 
 #### Combining or Other
@@ -194,7 +196,7 @@
 
 #### Defenses
 
-- 2015, **arXiv**, [Analysis of classifiers¡¯ robustness to adversarial perturbations](https://link.springer.com/article/10.1007/s10994-017-5663-3)
+- 2015, **arXiv**, [Analysis of classifiersÂ¡Â¯ robustness to adversarial perturbations](https://link.springer.com/article/10.1007/s10994-017-5663-3)
 
 - 2016, **ICLR**, [Learning with a Strong Adversary](https://arxiv.org/pdf/1511.03034)
 
@@ -220,7 +222,7 @@
 
 - 2018, **CVPR**, [Partial Transfer Learning with Selective Adversarial Networks](http://openaccess.thecvf.com/content_cvpr_2018/papers/Cao_Partial_Transfer_Learning_CVPR_2018_paper.pdf)
 
-- 2018, **ECCV**, [Is robustness the cost of accuracy¨Ca comprehensive study on the robustness of 18 deep image classification models](http://openaccess.thecvf.com/content_ECCV_2018/papers/Dong_Su_Is_Robustness_the_ECCV_2018_paper.pdf)
+- 2018, **ECCV**, [Is robustness the cost of accuracyÂ¨Ca comprehensive study on the robustness of 18 deep image classification models](http://openaccess.thecvf.com/content_ECCV_2018/papers/Dong_Su_Is_Robustness_the_ECCV_2018_paper.pdf)
 
 - 2018, **ICLR Workshop**, [Attacking the Madry Defense Model with L1-based Adversarial Examples](https://arxiv.org/pdf/1710.10733)
 
