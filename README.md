@@ -1,4 +1,33 @@
+# AI Security Reading List
 
+- [AI for IoT and Mobile](#ai-for-iot-and-mobile)
+  * [Compression](#compression)
+    + [Combining or Other](#combining-or-other)
+    + [Distillation](#distillation)
+    + [Factorization](#factorization)
+    + [Pruning](#pruning)
+    + [Quantization](#quantization)
+  * [Misc](#misc)
+- [Attacks and Defenses](#attacks-and-defenses)
+  * [Adversarial Examples](#adversarial-examples)
+    + [Attacks](#attacks)
+    + [Defenses](#defenses)
+  * [Backdoor](#backdoor)
+    + [Attacks](#attacks-1)
+    + [Defenses](#defenses-1)
+  * [Inference](#inference)
+    + [Attacks](#attacks-2)
+    + [Defenses](#defenses-2)
+  * [Poisoning](#poisoning)
+    + [Attacks](#attacks-3)
+    + [Defenses](#defenses-3)
+- [Federated Learning](#federated-learning)
+- [GAN and VAE](#gan-and-vae)
+- [Interpretability and Attacks to New Scenario](#interpretability-and-attacks-to-new-scenario)
+- [Multimodal](#multimodal)
+- [SGX, TrustZone and Crypto](#sgx--trustzone-and-crypto)
+- [Survey](#survey)
+- [Other links](#other-links)
 
 ## AI for IoT and Mobile
 
@@ -194,7 +223,7 @@
 
 #### Defenses
 
-- 2015, **arXiv**, [Analysis of classifiers¡¯ robustness to adversarial perturbations](https://link.springer.com/article/10.1007/s10994-017-5663-3)
+- 2015, **arXiv**, [Analysis of classifiersï¿½ï¿½ robustness to adversarial perturbations](https://link.springer.com/article/10.1007/s10994-017-5663-3)
 
 - 2016, **ICLR**, [Learning with a Strong Adversary](https://arxiv.org/pdf/1511.03034)
 
@@ -220,7 +249,7 @@
 
 - 2018, **CVPR**, [Partial Transfer Learning with Selective Adversarial Networks](http://openaccess.thecvf.com/content_cvpr_2018/papers/Cao_Partial_Transfer_Learning_CVPR_2018_paper.pdf)
 
-- 2018, **ECCV**, [Is robustness the cost of accuracy¨Ca comprehensive study on the robustness of 18 deep image classification models](http://openaccess.thecvf.com/content_ECCV_2018/papers/Dong_Su_Is_Robustness_the_ECCV_2018_paper.pdf)
+- 2018, **ECCV**, [Is robustness the cost of accuracyï¿½Ca comprehensive study on the robustness of 18 deep image classification models](http://openaccess.thecvf.com/content_ECCV_2018/papers/Dong_Su_Is_Robustness_the_ECCV_2018_paper.pdf)
 
 - 2018, **ICLR Workshop**, [Attacking the Madry Defense Model with L1-based Adversarial Examples](https://arxiv.org/pdf/1710.10733)
 
